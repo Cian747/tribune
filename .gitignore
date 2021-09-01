@@ -1,3 +1,4 @@
 virtual/
 *pyc
 notes.txt
+tribune/settings.py
